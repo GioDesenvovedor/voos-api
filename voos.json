@@ -238,8 +238,8 @@
       "departure_airport": "LAX - Los Angeles International Airport",
       "arrival_airport": "ATL - Hartsfield-Jackson Atlanta International Airport",
       "airplane_name": "Airbus A320"
-    }
-  {
+    },
+    {
       "flight_id": "KL851",
       "status": "EM ANDAMENTO",
       "completion_status": "ATRASOU",
@@ -251,7 +251,7 @@
       "arrival_airport": "ORD - O'Hare International Airport",
       "airplane_name": "Boeing 737"
     },
-{
+    {
       "flight_id": "KL861",
       "status": "EM ANDAMENTO",
       "completion_status": "ATRASOU",
@@ -263,7 +263,7 @@
       "arrival_airport": "ORD - O'Hare International Airport",
       "airplane_name": "Boeing 738"
     },
-{
+    {
       "flight_id": "KL871",
       "status": "PREVISTO",
       "completion_status": "NO_HORARIO",
@@ -275,7 +275,7 @@
       "arrival_airport": "ORD - O'Hare International Airport",
       "airplane_name": "Boeing 738"
     },
-{
+    {
       "flight_id": "KL963",
       "status": "PREVISTO",
       "completion_status": "NO_HORARIO",
