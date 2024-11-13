@@ -239,4 +239,52 @@
       "arrival_airport": "ATL - Hartsfield-Jackson Atlanta International Airport",
       "airplane_name": "Airbus A320"
     }
+  {
+      "flight_id": "KL851",
+      "status": "EM ANDAMENTO",
+      "completion_status": "ATRASOU",
+      "start_date": "2024-09-16",
+      "end_date": "2024-09-16",
+      "departure_time": "17:30",
+      "arrival_time": "21:15",
+      "departure_airport": "JFK - John F. Kennedy International Airport",
+      "arrival_airport": "ORD - O'Hare International Airport",
+      "airplane_name": "Boeing 737"
+    },
+{
+      "flight_id": "KL861",
+      "status": "EM ANDAMENTO",
+      "completion_status": "ATRASOU",
+      "start_date": "2024-09-17",
+      "end_date": "2024-09-17",
+      "departure_time": "17:30",
+      "arrival_time": "21:15",
+      "departure_airport": "JFK - John F. Kennedy International Airport",
+      "arrival_airport": "ORD - O'Hare International Airport",
+      "airplane_name": "Boeing 738"
+    },
+{
+      "flight_id": "KL871",
+      "status": "PREVISTO",
+      "completion_status": "NO_HORARIO",
+      "start_date": "2024-09-16",
+      "end_date": "2024-09-16",
+      "departure_time": "17:30",
+      "arrival_time": "22:15",
+      "departure_airport": "JFK - John F. Kennedy International Airport",
+      "arrival_airport": "ORD - O'Hare International Airport",
+      "airplane_name": "Boeing 738"
+    },
+{
+      "flight_id": "KL963",
+      "status": "PREVISTO",
+      "completion_status": "NO_HORARIO",
+      "start_date": "2024-09-16",
+      "end_date": "2024-09-16",
+      "departure_time": "17:30",
+      "arrival_time": "22:15",
+      "departure_airport": "JFK - John F. Kennedy International Airport",
+      "arrival_airport": "ORD - O'Hare International Airport",
+      "airplane_name": "Boeing 265"
+    }
   ]
